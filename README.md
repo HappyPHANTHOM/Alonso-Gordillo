@@ -51,7 +51,11 @@
 
 ###
 
-[url=https://postimg.cc/w3B711nX][img]https://i.postimg.cc/w3B711nX/miPage1.jpg[/img][/url]
+[url=[/img][/url]
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/w3B711nX/miPage1.jpg"  />
+</div>
+
 
 ###
 
