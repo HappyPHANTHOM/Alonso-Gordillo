@@ -15,6 +15,20 @@
 </div>
 
 ###
+```
+const aboutMe = {
+   code: [Javascript, HTML, CSS, RubyNRails],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux", "React-Native"],
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["SQL", "PostgreSQL"],
+   },
+};
+```
 
 <h3 align="left">I code with</h3>
 
@@ -35,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="52" alt="yarn logo"  />
+  <img src="https://s3-eu-west-1.amazonaws.com/xavitristancho/react-native.png" height="40" width="52" alt="react-native logo" 
 </div>
 
 ###
@@ -50,13 +65,7 @@
 <p align="left">For this application, an API was used that provided the necessary information to display a variety of recipes.</p>
 
 ###
-
-[url=[/img][/url]
-<div align="center">
-  <img height="200" src="https://i.postimg.cc/w3B711nX/miPage1.jpg"  />
-</div>
-
-
+[![miPage1.jpg](https://i.postimg.cc/bYxbFbTB/miPage1.jpg)](https://postimg.cc/w3B711nX)
 ###
 
 <h4 align="left">-Ecommerce App</h4>
