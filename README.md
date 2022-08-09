@@ -51,9 +51,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://cdn7.recetasdeescandalo.com/wp-content/uploads/2020/03/Recetas-de-cuarentena-para-comer-bien-durante-el-confinamiento.jpg"  />
-</div>
+[url=https://postimg.cc/w3B711nX][img]https://i.postimg.cc/w3B711nX/miPage1.jpg[/img][/url]
 
 ###
 
