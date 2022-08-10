@@ -29,7 +29,18 @@ const aboutMe = {
    },
 };
 ```
+###
+<h3 align="center">Contact me (:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/alonso-gordillo-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/vJjv3dCr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
+###
 <h3 align="left">I code with</h3>
 
 ###
@@ -72,23 +83,14 @@ const aboutMe = {
 
 ###
 
-<h4 align="left">Online product sales application.</h4>
+<h4 align="left">-ASTRONET-
+Cellular application: E-commerce of technological products.</h4>
+<p align="left">With a team of 8 members, we developed a React Native app with CSS styles that included MongoDB database, NodeJS back with Express, Login with Google, Auth0, bcrypt and jsonwebtoken, push and email notifications, image saving in an online database with Cloudinary and a payment gateway with Mercado Pago.</p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://atrevete.academy/blog/wp-content/uploads/2020/10/ecommerce-tendencias.jpg"  />
-</div>
 
-###
+[![Alt text](https://img.youtube.com/vi/o2CoBTuhhA4/0.jpg)](https://www.youtube.com/watch?v=o2CoBTuhhA4)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alonso-gordillo-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/vJjv3dCr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
 
-###
+
